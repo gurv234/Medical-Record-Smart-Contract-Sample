@@ -48,7 +48,7 @@ contract record{
     function updateRecord(address _uniqueID, bool _istreated) returns (string){
         require(doctormapping[msg.sender]);
         patientmapping[_uniqueID].istreated = _istreated;
-        // return "Patient records are: ";
+     
         if(_istreated)
             return "Patient is treated!";
         return "Patient not treated!";
@@ -57,7 +57,6 @@ contract record{
 }
 
 
-// Patient 1: 0x3ed1875Cb1222C0981555BD45385a86925bbdFbD
 
 
 
