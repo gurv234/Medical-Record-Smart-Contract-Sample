@@ -36,6 +36,6 @@ You will need to activate the 'Solidity Compiler' and 'Debug and Run Transaction
 * Finally, if the doctor has succesfully treated the patient, he can enter `uniqueID`, `true` as inputs in the `updateRecord` field and click on it to view the changes in the terminal.
 
 ![Viewing and Updating Patient's medical records](/images/smind10.png)
-* Different accounts can be used to create new patients and doctors by following the above steps. However only the doctors mapped to a patient can view and update his/her medical records. For instance, if enter the `uniqueID` of some other patient in the `patientmapping` section for the doctor we just created it shows null values as output.
+* Different accounts can be used to create new patients and doctors by following the above steps. However only the doctors mapped to a patient can view and update his/her medical records. For instance, if we enter the `uniqueID` of some other patient in the `patientmapping` section for the doctor we just created it shows null values as output.
 
 ![Entering the uniqueID of a different patient](/images/smind12.png) 
