@@ -13,6 +13,7 @@ You will need to use the http://remix.ethereum.org/ website to run this smart co
 You will need to activate the 'Solidity Compiler' and 'Debug and Run Transactions' extensions from the Extensions side menu.
 
 ## Running the Code
+* Hit 'Compile' and then 'Deploy' in the Compiler and Debug and Run sections repectively to deploy the smart contract.
+![Compiling the Code](/images/smind1.png)  ![Deploying the Contract](/images/smind2.png) 
 
-*
 
