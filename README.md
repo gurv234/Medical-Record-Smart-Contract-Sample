@@ -8,3 +8,11 @@ This smart contract was written in solidity and is built using the Remix-Ethereu
 
 You will need to use the http://remix.ethereum.org/ website to run this smart contract.
 
+### Prerequisites
+
+You will need to activate the 'Solidity Compiler' and 'Debug and Run Transactions' extensions from the Extensions side menu.
+
+## Running the Code
+
+*
+
